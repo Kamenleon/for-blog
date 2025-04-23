@@ -1,4 +1,5 @@
 +++
+date = '2025-04-07T21:00:00+09:00'
 draft = false
 title = 'Hugo + Stackでブログを作るまで'
 tags = ["Hugo"]
